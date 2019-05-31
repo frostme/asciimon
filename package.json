@@ -1,0 +1,16 @@
+{
+  "name": "asciimon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.4",
+    "image-to-ascii": "^3.0.12"
+  },
+  "scripts": {
+    "build": "node pokemon/build"
+  },
+  "characters": [
+    "pickachu"
+  ]
+}
